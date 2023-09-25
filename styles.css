@@ -9,7 +9,7 @@ ul li:nth-child(odd){
 	background-color:white;
 }
 ul li:nth-child(3){
-	background-color:hotpink;
+	background-color:pink;
 }
 p:first-child{
 	background-color:black;
